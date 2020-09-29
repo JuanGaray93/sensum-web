@@ -4,22 +4,27 @@
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "64x64 32x32 16x16 24x24 8x8",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "favicon-16x16.ico",
+      "sizes": "16x16",
+      "type": "image/png"
     },
     {
-      "src": "logo512.png",
+      "src": "favicon-32x32.ico",
+      "sizes": "64x64 32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "logo504.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "504x504"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#271f34",
+  "background_color": "#271f34"
 }

@@ -1,5 +1,20 @@
+@keyframes sensumLoading {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 .SensumIcon {
   width: fit-content;
+  animation-name: sensumLoading;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
   > .Pajaro1,
   > .Pajaro2 {
     fill: #f9f6fb;
