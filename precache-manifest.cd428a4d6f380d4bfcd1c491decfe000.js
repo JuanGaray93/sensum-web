@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10cde6837e5ddc87efb793aa08300d45",
+    "revision": "fafa224c565471610afe7fa184a7cac1",
     "url": "/sensum-web/index.html"
   },
   {
-    "revision": "a06999ad0df8892c1258",
-    "url": "/sensum-web/static/css/main.d9dd26ee.chunk.css"
+    "revision": "378a5910720b732ec04c",
+    "url": "/sensum-web/static/css/main.e032cefa.chunk.css"
   },
   {
     "revision": "3fee68a95e9677e52c15",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sensum-web/static/js/2.6c44a328.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a06999ad0df8892c1258",
+    "revision": "378a5910720b732ec04c",
     "url": "/sensum-web/static/js/main.db199378.chunk.js"
   },
   {

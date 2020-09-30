@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sensum-web/static/css/main.d9dd26ee.chunk.css",
+    "main.css": "/sensum-web/static/css/main.e032cefa.chunk.css",
     "main.js": "/sensum-web/static/js/main.db199378.chunk.js",
     "main.js.map": "/sensum-web/static/js/main.db199378.chunk.js.map",
     "runtime-main.js": "/sensum-web/static/js/runtime-main.d8d0830b.js",
@@ -8,9 +8,9 @@
     "static/js/2.6c44a328.chunk.js": "/sensum-web/static/js/2.6c44a328.chunk.js",
     "static/js/2.6c44a328.chunk.js.map": "/sensum-web/static/js/2.6c44a328.chunk.js.map",
     "index.html": "/sensum-web/index.html",
-    "precache-manifest.1479712b6ad2b24953a6c5eb2a935bb9.js": "/sensum-web/precache-manifest.1479712b6ad2b24953a6c5eb2a935bb9.js",
+    "precache-manifest.cd428a4d6f380d4bfcd1c491decfe000.js": "/sensum-web/precache-manifest.cd428a4d6f380d4bfcd1c491decfe000.js",
     "service-worker.js": "/sensum-web/service-worker.js",
-    "static/css/main.d9dd26ee.chunk.css.map": "/sensum-web/static/css/main.d9dd26ee.chunk.css.map",
+    "static/css/main.e032cefa.chunk.css.map": "/sensum-web/static/css/main.e032cefa.chunk.css.map",
     "static/js/2.6c44a328.chunk.js.LICENSE.txt": "/sensum-web/static/js/2.6c44a328.chunk.js.LICENSE.txt",
     "static/media/close.42066740.svg": "/sensum-web/static/media/close.42066740.svg",
     "static/media/pulse.86b89acd.svg": "/sensum-web/static/media/pulse.86b89acd.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.d8d0830b.js",
     "static/js/2.6c44a328.chunk.js",
-    "static/css/main.d9dd26ee.chunk.css",
+    "static/css/main.e032cefa.chunk.css",
     "static/js/main.db199378.chunk.js"
   ]
 }
